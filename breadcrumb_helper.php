@@ -7,7 +7,7 @@
  * 
  * This helper helps to create automatic breadcrumb links based on bootstrap 3+
  * 
- * Link: https://github.com/mmkjony/ci-breadcrumb-helper-for-bootstrap
+ * Link: https://github.com/mmkjony/Codeigniter-Breadcrumb-Helper-for-Bootstrap
  * 
  * Written by MMK Jony [https://github.com/mmkjony/]
  */
